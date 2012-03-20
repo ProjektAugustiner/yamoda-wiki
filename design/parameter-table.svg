@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="503"
-   height="353"
+   width="256"
+   height="179.65805"
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="parameter-table.png">
+   sodipodi:docname="parameter-table.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -33,7 +33,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="-27.940772"
+     inkscape:cx="-27.940771"
      inkscape:cy="121.1342"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,15 +67,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-48.5,-50.862183)">
+     transform="translate(-48.499999,-224.20413)">
     <path
        sodipodi:nodetypes="ccccc"
        id="path3622"
-       d="m 50,52.362183 500,0 0,69.999997 -500,0 0,-69.999997 z"
-       style="fill:#b3b3b3;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       d="m 49.263419,224.96755 254.473161,0 0,35.62624 -254.473161,0 0,-35.62624 z"
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1.52683902;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <g
        id="g3624"
-       transform="translate(4.8144531,24.296872)">
+       transform="matrix(0.50894632,0,0,0.50894632,26.266402,210.68381)">
       <g
          id="g3636"
          transform="translate(-13.486328,0.61523476)">
@@ -133,17 +133,17 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="137.92969"
-       y="102.27429"
+       style="font-size:20.35785294px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="94.014908"
+       y="250.37013"
        id="text2842"><tspan
          sodipodi:role="line"
          id="tspan2844"
-         x="137.92969"
-         y="102.27429">Parameter table</tspan></text>
+         x="94.014908"
+         y="250.37013">Parameter table</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 50,122.36218 500,0 0,280 -500,0 0,-280 z"
+       style="fill:none;stroke:#000000;stroke-width:1.52683902;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 49.263419,260.59379 254.473161,0 0,142.50497 -254.473161,0 0,-142.50497 z"
        id="path2846"
        sodipodi:nodetypes="ccccc" />
   </g>
